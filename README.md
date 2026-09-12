@@ -38,7 +38,6 @@ real-world applications.
 
 ### ⚙️ Frameworks, Platforms & Libraries
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -117,21 +116,6 @@ real-world applications.
 - Git & GitHub
 - SOLID Principles
 - Minoan Robosports Competition Egypt
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=OmarWael28&show_icons=true&hide_border=true&rank_icon=github"
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarWael28&layout=compact&hide_border=true"
-    height="170"
-  />
-</p>
 
 ---
 
